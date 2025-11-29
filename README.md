@@ -1,4 +1,10 @@
-# MLCerts -- Source Code (ICSE 2026)
+# MLCerts -- Source Code 
+
+Hallucinating Certificates: Differential Testing of TLS Certificate Validation Using Generative Language Models (ICSE 2026)
+
+_Talha Paracha, Kyle Posluns, Kevin Borgolte, Martina Lindorfer, David Choffnes_
+
+---
 
 aux.pdf provides additional supplementary material for the paper.   
 
