@@ -1,0 +1,17 @@
+[req]
+distinguished_name = req_distinguished_name
+x509_extensions = v3_req
+prompt = no
+[req_distinguished_name]
+C = US
+ST = VA
+L = SomeCity
+O = MyCompany
+OU = MyDivision
+CN = Custom Root v3
+[v3_req]
+keyUsage=critical,digitalSignature,keyCertSign
+basicConstraints=critical,CA:TRUE
+[alt_names]
+DNS.1 = www.customca.com
+
