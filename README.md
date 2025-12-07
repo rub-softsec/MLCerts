@@ -19,7 +19,7 @@ Raw PEM certificates used in differential testing can be downloaded [here](https
 
 ## Differential Testing Framework 
 
-Please refer to [/differential-testing/](/differential-testing/README.md) directory for code and instructions for accessing Docker containers with a running environment. 
+Please refer to [/differential-testing/](/differential-testing/README.md) directory for code and instructions on accessing Docker container with a running environment for the framework and a patched Transcert implementation. 
 
 ## Language Models
 
