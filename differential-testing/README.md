@@ -1,6 +1,7 @@
 # Differential Testing Framework for MLCerts
 
-Full commit history accessible at: https://github.com/paraacha/mlcerts
+Commit History: https://github.com/paraacha/mlcerts
+Docker Images for Differential Testing Framework: https://zenodo.org/records/17850372
 
 # Building / Set up
 
