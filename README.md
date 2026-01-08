@@ -19,11 +19,11 @@ Raw PEM certificates used in differential testing can be downloaded [here](https
 
 ## Differential Testing Framework 
 
-Please refer to [/differential-testing/](/differential-testing/README.md) directory for code and instructions on accessing Docker container with a running environment for the framework and a patched Transcert implementation. 
+The code is available in [/differential-testing/](/differential-testing/README.md) directory. A Docker image for running the framework is available [here](https://zenodo.org/records/17850372).     
 
 ## Language Models
 
-The code, documentation and saved models are available together for download [here](https://zenodo.org/records/15971208).  
+The code, documentation and saved models are available together for download [here](https://zenodo.org/records/15971208). A Docker image for CPU-based certificate generation is available [here](https://zenodo.org/records/17850372).     
 
 ## Code for Paper Results
 
